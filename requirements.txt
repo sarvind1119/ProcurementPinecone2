@@ -8,5 +8,6 @@ pandas
 numpy
 python-dotenv
 sentence_transformers
-streamlit
-sentence_transformers
+langchain_openai
+langchain_pinecone
+langchain_text_splitters
